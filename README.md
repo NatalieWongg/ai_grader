@@ -1,0 +1,1 @@
+This project is a simple auto-grader that uses TF-IDF and cosine similarity to compare student answers against a mark scheme. It awards marks per point, outputs results to the console, and saves them to a CSV file for analysis.
