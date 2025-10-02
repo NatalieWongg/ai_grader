@@ -1,0 +1,14 @@
+question_id,student_ans,marks_awarded,max_marks,point_id,point_text,tfidf_score,awarded
+2a,The video is uploaded to a media server and then streamed continuously. A buffer is used so the user can watch smoothly even if the internet is slower.,2,4,2a_1,video is transmitted continuously,0.215,False
+2a,The video is uploaded to a media server and then streamed continuously. A buffer is used so the user can watch smoothly even if the internet is slower.,2,4,2a_2,as a series of bits,0.0,False
+2a,The video is uploaded to a media server and then streamed continuously. A buffer is used so the user can watch smoothly even if the internet is slower.,2,4,2a_3,video is uploaded to a media server,0.449,True
+2a,The video is uploaded to a media server and then streamed continuously. A buffer is used so the user can watch smoothly even if the internet is slower.,2,4,2a_4,users download from media server,0.176,False
+2a,The video is uploaded to a media server and then streamed continuously. A buffer is used so the user can watch smoothly even if the internet is slower.,2,4,2a_5,media server sends data to buffer on user device,0.285,True
+2a,The video is uploaded to a media server and then streamed continuously. A buffer is used so the user can watch smoothly even if the internet is slower.,2,4,2a_6,buffer stores data when transmission speed differs,0.064,False
+2a,The video is uploaded to a media server and then streamed continuously. A buffer is used so the user can watch smoothly even if the internet is slower.,2,4,2a_7,recipient views bit stream from buffer,0.152,False
+2b_i,Videos are compressed because they are very large and use too much bandwidth. Compression helps reduce buffering and makes it easier for people with slow internet to join.,2,4,2b_1,video is data-intensive,0.108,False
+2b_i,Videos are compressed because they are very large and use too much bandwidth. Compression helps reduce buffering and makes it easier for people with slow internet to join.,2,4,2b_2,reduces file size,0.084,False
+2b_i,Videos are compressed because they are very large and use too much bandwidth. Compression helps reduce buffering and makes it easier for people with slow internet to join.,2,4,2b_3,reduces bandwidth used,0.269,True
+2b_i,Videos are compressed because they are very large and use too much bandwidth. Compression helps reduce buffering and makes it easier for people with slow internet to join.,2,4,2b_4,reduces buffering,0.269,True
+2b_i,Videos are compressed because they are very large and use too much bandwidth. Compression helps reduce buffering and makes it easier for people with slow internet to join.,2,4,2b_5,helps people not fall behind in conversation,0.135,False
+2b_i,Videos are compressed because they are very large and use too much bandwidth. Compression helps reduce buffering and makes it easier for people with slow internet to join.,2,4,2b_6,allows people with lower bandwidth to participate,0.135,False

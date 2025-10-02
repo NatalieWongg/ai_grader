@@ -1,0 +1,4 @@
+{
+  "2a": "The video is uploaded to a media server and then streamed continuously. A buffer is used so the user can watch smoothly even if the internet is slower.",
+  "2b_i": "Videos are compressed because they are very large and use too much bandwidth. Compression helps reduce buffering and makes it easier for people with slow internet to join."
+}
